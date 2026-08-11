@@ -39,3 +39,4 @@ Role and Persona: A “fortress-like personal AI investment advisor” that acts
 
 ## 📚 関連リンク / 記事
 
+Coming soon
